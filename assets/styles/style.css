@@ -1,0 +1,10 @@
+body {
+  margin: 20px;
+  background-color: rgb(42, 41, 41);
+  color: #e3dede;
+  font-family: sans-serif;
+  font-size: 20px;
+  text-align: left;
+  letter-spacing: 0.8px;
+  line-height: 1.2;
+}
